@@ -36,4 +36,4 @@ build/
 musicstore-recommendations/app/src/main/resources/*.properties
 musicstore-recommendations/app/src/test/resources/*.properties
 
-musicstore-recommendations/app/scratch.txt
+musicstore-recommendations/app/*.txt
