@@ -1,7 +1,9 @@
-mysql://x6qu1xm5i83w8qzt:o97t249j6klw29h9@o2olb7w3xv09alub.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/prk305grnt67yb9e
 
-SPRING_DATASOURCE_URL jdbc:mysql://o2olb7w3xv09alub.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/prk305grnt67yb9e
-SPRING_DATASOURCE_USERNAME  x6qu1xm5i83w8qzt
-SPRING_DATASOURCE_PASSWORD   o97t249j6klw29h9
 
-MySQL Workbench Hostname: o2olb7w3xv09alub.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+mysql://ik5s86o4ox3uppwo:c1q6cjl07c6ia7ou@h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/u6pqt24ztm7vmw00
+
+SPRING_DATASOURCE_URL jdbc:mysql://h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/u6pqt24ztm7vmw00
+SPRING_DATASOURCE_USERNAME  ik5s86o4ox3uppwo
+SPRING_DATASOURCE_PASSWORD   c1q6cjl07c6ia7ou
+
+MySQL Workbench Hostname: h1use0ulyws4lqr1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
